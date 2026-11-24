@@ -1,0 +1,23 @@
+# Claude Code — personal overrides (shared config lives in .claude/settings.json)
+.claude/settings.local.json
+CLAUDE.local.md
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Java / Maven
+target/
+*.class
+*.log
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+
+# Env & OS
+.env
+.env.*
+.DS_Store
